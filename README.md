@@ -16,8 +16,8 @@ It demonstrates the power of transformer-based NLP models.
 - Evaluation: Accuracy, F1-score, confusion matrix  
 
 ## 🚀 Results
-- Accuracy: ~88% on test set  
-- F1-score: 88%  
+- Accuracy: ~98% on test set  
+- F1-score: 98%  
 - See `/results` folder for graphs  
 
 ## 🛠️ How to Run
